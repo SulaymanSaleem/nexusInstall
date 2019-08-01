@@ -2,7 +2,7 @@
 
 #install java and jvm
 
-sudo apt install openjdk-8-jdk
+sudo apt install -y openjdk-8-jdk
 mkdir opt
 cd opt
 mkdir install_dir
